@@ -1,2 +1,6 @@
-# basic-calculator-js
-In this project, a basic calculator was created with a layout similar to that of Windows, using Javascript, HTML and CSS.
+# Javascript calculator
+The project is a calculator with basic functions, inspired by the Windows layout.
+
+Languages: Javascript(backend) & HTML5 and CSS (Frontend).
+
+Tools: Version control with GitHub & Live Server Ritwick Dey extension.
