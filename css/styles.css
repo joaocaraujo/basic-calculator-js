@@ -66,12 +66,17 @@ body {
 }
 
 #buttons-container .number {
+    border-radius: 0px;
     background-color: #d3d3d3;
 }
 
 #buttons-container button:hover {
     background-color: #ffffff;
     border-color: #999;
+}
+
+#buttons-container button:focus {
+    border-bottom: 1px solid #3f74d8f5;
 }
 
 #buttons-container #equal-btn {
