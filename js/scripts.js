@@ -67,6 +67,8 @@ class Calculator {
             break;
         case "=":
             this.processEqualOperator();
+            this.currentOperationText.innerHTML = this.previousOperationText.innerHTML.split(' ')[0];
+            this.previousOperationText.innerHTML = '';
             break;
         default:
             return;
